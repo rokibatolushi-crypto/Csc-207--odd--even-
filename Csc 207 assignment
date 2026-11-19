@@ -1,0 +1,14 @@
+#include ‹iostream›
+using namespace std;
+int main() {
+int num;
+cout
+cin >> num;
+<< "Enter a number:
+";
+if (num % 2 == 0) {
+cout ‹< num ‹< " is Even" << el
+} else ‹
+cout ‹< num ‹< " is Odd" ‹< en‹
+｝
+return 0;
